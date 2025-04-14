@@ -68,5 +68,6 @@ You can watch the full dashboard walkthrough here:
 
 🔗 [Watch the Presentation Video](https://x.com/onsscha/status/1895136953198325904)
 
-*Note: The presentation is in Arabic.*
+*Note:The video is slightly sped up due to length limits — you may reduce the playback speed for better clarity.*
+
 
